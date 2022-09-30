@@ -26,3 +26,5 @@ let suggestions = [
     "What does HTML stands for?",
     "What does CSS stands for?",
 ];
+
+export default suggestions;
